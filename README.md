@@ -6,4 +6,4 @@ a script that returns a file with all prices and discounts of 10% from the large
 
 All settings in the __init __ arguments to edit the discount and get the things that interest you at the price you need
 
-![thx|cat](![Matrix](https://media0.giphy.com/media/kic65zXQK8Ej84ZZQK/giphy.gif?cid=ecf05e476322bbf6569a8959828250fd7ddd5b5a7dd8eb6d&rid=giphy.gif))
+![thx]((https://media0.giphy.com/media/kic65zXQK8Ej84ZZQK/giphy.gif?cid=ecf05e476322bbf6569a8959828250fd7ddd5b5a7dd8eb6d&rid=giphy.gif))
